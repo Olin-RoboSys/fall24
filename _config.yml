@@ -7,7 +7,7 @@ baseurl: "/fall24" # the subpath of your site, e.g. /blog/
 url: "http://Olin-RoboSys.github.io/" # the base hostname & protocol for your site
 
 schoolname: "Olin College"
-schoolurl: "https://olin.edu"
+schoolurl: "http://olin.edu"
 twitter_username: OlinCollege 
 
 address: |
